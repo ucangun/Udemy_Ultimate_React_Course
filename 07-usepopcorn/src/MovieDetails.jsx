@@ -58,7 +58,6 @@ export function MovieDetails({
     };
     getMovieDetails();
   }, [selectedId]);
-
   return (
     <div className="details">
       {isLoading ? (
@@ -82,7 +81,6 @@ export function MovieDetails({
               </p>
             </div>
           </header>
-
           <section>
             <div className="rating">
               {!isWatched ? (
