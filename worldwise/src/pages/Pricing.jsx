@@ -1,10 +1,12 @@
 // Uses the same styles as Product
+import PageNav from "../components/PageNav";
 import styles from "./Product.module.css";
 
 export default function Product() {
   return (
     <main className={styles.product}>
       <section>
+        <PageNav />
         <div>
           <h2>
             Simple pricing.
