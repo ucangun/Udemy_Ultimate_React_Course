@@ -15,7 +15,6 @@ function City() {
   const { id } = useParams();
 
   const [searchParam, setSearchParam] = useSearchParams();
-  console.log(setSearchParam);
 
   const lat = searchParam.get("lat");
   const lng = searchParam.get("lng");
