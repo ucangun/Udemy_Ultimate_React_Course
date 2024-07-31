@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Melgar de Yuso",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-31T09:38:21.128Z",
-      "notes": "",
-      "position": {
-        "lat": "42.22851735620852",
-        "lng": "-4.262695312500001"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Calatanazor",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-31T09:41:26.318Z",
-      "notes": "",
-      "position": {
-        "lat": "41.672911819602085",
-        "lng": "-2.83447265625"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Honrubia de la Cuesta",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-31T09:42:16.635Z",
-      "notes": "",
-      "position": {
-        "lat": "41.47566020027821",
-        "lng": "-3.6914062500000004"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Saceda-Trasierra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-31T09:44:31.582Z",
-      "notes": "",
-      "position": {
-        "lat": "40.16208338164619",
-        "lng": "-2.8564453125000004"
-      },
-      "id": 98443201
     }
   ]
 }
