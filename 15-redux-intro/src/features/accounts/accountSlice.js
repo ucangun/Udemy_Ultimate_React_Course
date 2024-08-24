@@ -55,6 +55,8 @@ const accountSlice = createSlice({
 
 export const { withdraw, requestLoan, payLoan } = accountSlice.actions;
 
+export default accountSlice.reducer;
+
 export function deposit(amount, currency) {
   if (currency === "USD") return { type: "account/deposit", payload: amount };
 
@@ -70,6 +72,7 @@ export function deposit(amount, currency) {
     dispatch({ type: "account/deposit", payload: converted });
   };
 }
+
 /*
 export default function accountReducer(state = initialStateAccount, action) {
   switch (action.type) {
