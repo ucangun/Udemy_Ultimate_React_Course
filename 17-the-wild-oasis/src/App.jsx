@@ -5,9 +5,10 @@ styled.h1``;
 
 const App = () => {
   return (
-    <GlobalStyles>
+    <>
+      <GlobalStyles />
       <h1>Hello World</h1>
-    </GlobalStyles>
+    </>
   );
 };
 
